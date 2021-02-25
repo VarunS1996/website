@@ -1,0 +1,17 @@
+.nav-link
+{
+    font-size:23px;
+    margin-right:8px;
+    font-family: Gungsuh;
+}
+
+.navbar-brand
+{
+    font-size: 24px;
+}
+
+.nav-link:hover
+{
+    color:white;
+    
+}

@@ -1,0 +1,85 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	background: #fafafa;
+}
+
+.heading{
+	font-family: 'Poppins', sans-serif;
+	font-size:22px;
+	padding:15px;
+	color:grey;
+	
+}
+
+#link{
+	color:inherit;
+	text-decoration: none;
+	transition: all 0.3s;
+}
+
+#link:focus , #link:hover
+{
+	background-color: rgb(14, 13, 13);
+}
+/* Side Bar*/
+
+
+
+#sidebar.active {
+    margin-left: -280px;
+}
+.wrapper{
+	display: flex;
+	text-decoration: none;
+	transition: all 0.3s;
+}
+
+#sidebar{
+	min-width: 280px;
+	max-width: 280px;
+	background: #4a4b4d;
+	color: #fff;
+	transition: all 0.3s;
+}
+
+
+#sidebar ul p{
+	color: #fff;
+    padding: 20px;
+	background-color:#626366;
+	/* margin-left:10px; */
+}
+
+#sidebar ul li #link{
+	padding: 15px;
+	
+	font-size: 1.3em;
+	display: block;
+}
+
+
+#content{
+	width: 100%;
+	padding: 20px;
+	margin-bottom:50px;
+	min-height: 100vh;
+	transition: all 0.3s;
+}
+
+.card-text
+{
+	font-size: 25px;
+	
+}
+
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -280px;
+    }
+    #sidebar.active {
+        margin-left: 0;
+    }
+    #sidebarCollapse span {
+        display: none;
+    }
+}

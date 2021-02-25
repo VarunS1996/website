@@ -1,0 +1,232 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+
+.carousel-inner img
+{
+    height:570px;
+    width:100%;
+}
+
+.row
+{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.featurette-divider
+{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+.featurette
+{
+     margin-top:50px;
+     margin-bottom:50px;
+}
+
+.marketing .col-lg-4 
+{
+     text-align:center;
+     padding:35px;
+}
+
+#services h1 
+{
+     text-align:center;
+     padding:42px;
+     text-decoration:underline;
+}
+
+#services
+{
+     background-color: rgb(223, 217, 217);;
+}
+
+#section img
+{
+     margin-top:30px;
+     margin-bottom: 30px;
+     position: relative;
+}
+
+#section .centered 
+{
+     position: absolute;
+     top:-20%;
+     
+}
+.jumbotron
+{
+     background: url("https://rushstreetgaming.com/wp-content/uploads/2017/08/alejandro-benet-139018-1920x700.jpg") no-repeat;
+     background-size: cover;
+     height:550px;
+     width:98.5vw;
+     
+}
+
+.jumbotron .container h1,#con,#con1
+{
+     color:white;
+     text-align: center;
+     margin-top:20px;
+}
+
+
+/***** Footer *****/
+
+.footer-top
+{
+      padding: 60px 0; 
+      background: #333; 
+      text-align: left; 
+      color: #aaa; 
+}
+.footer-top h3
+{ 
+    padding-bottom: 10px;
+     color: #fff; 
+}
+
+.footer-about
+{
+   color:white; 
+}
+
+.footer-about p 
+{
+     color:grey; 
+}
+
+.footer-contact p
+{
+     word-wrap: break-word; 
+}
+
+.footer-contact i
+{
+     padding-right: 10px;
+      font-size: 18px;
+       color: #666; 
+}
+
+.footer-contact p a
+{
+     border: 0; 
+}
+
+.footer-contact p a:hover, .footer-contact p a:focus
+{
+     border: 0; 
+}
+
+.footer-links a
+{
+     color: #aaa;
+     border: 0; 
+}
+
+.footer-links a:hover, .footer-links a:focus
+{
+     color: #fff; 
+}
+
+.footer-bottom
+{
+     padding: 15px 0 17px 0; 
+     background: #444; 
+     text-align: left; 
+     color: #aaa; 
+}
+
+.footer-social
+{
+     padding-top: 3px; 
+     text-align: right; 
+}
+
+.footer-social a
+{
+     margin-left: 20px; 
+     color: #777; 
+     border: 0; 
+}
+
+.footer-social a:hover, .footer-social a:focus
+{
+     color: white;
+     border: 0;
+}
+.footer-social i
+{
+     font-size: 24px; 
+     vertical-align: middle; 
+}
+
+.footer-copyright
+{
+     padding-top: 5px; 
+}
+
+.footer-copyright a
+{
+      color:white;
+      text-decoration: none;
+}
+
+
+/* contact us */
+.container > .contact
+{
+     background:white;
+     opacity:0.9;
+}
+.contact
+{
+     margin-top:100px; 
+     margin-bottom:100px;
+     height:660px;
+     padding:20px;
+     width:90%;
+     border-radius: 10px;
+     box-shadow: 0 0 10px rgb(179, 172, 170);
+     background:white;
+     opacity:0.9;
+}
+
+.contact h2
+{     
+     margin-top:20px;
+     font-size: 50px;
+     text-align: center;
+}
+
+
+.dropdown
+{
+     font-size:22px;
+}
+
+.dropdown a
+{
+     color:white;
+}
+
+.dropdown-menu
+{
+     margin-left: 20px;
+     margin-top: 9px;
+}
+
+.display-4
+{
+     font-size:50px;
+}
+
+/* sidebar  */
+
