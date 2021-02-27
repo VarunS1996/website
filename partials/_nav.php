@@ -14,10 +14,10 @@
                 <a class="nav-link" href="#">SERVICES</a>
             </li> -->
             <li class="nav-item">
-                <a class="nav-link" href="About.php">About Our Website</a>
+                <a class="nav-link" href="website/About.php">About Our Website</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="Contactus.php">Contact Details</a>
+                <a class="nav-link" href="website/Contactus.php">Contact Details</a>
             </li>
         </ul>
 <!--         <div class="dropdown mr-4 " id="user">
